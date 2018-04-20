@@ -1,0 +1,10 @@
+{
+    "productName": "electron-react-bootstrap",
+    "appId": "net.skoczylas.electronbootrap",
+    "directories": {
+        "output": "../dist"
+    },
+    "win": {
+        "target": [ "portable" ]
+    }
+}
